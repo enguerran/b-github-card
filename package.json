@@ -1,0 +1,16 @@
+{
+  "name": "b-github-card",
+  "version": "0.0.0",
+  "description": "b-github-card ========",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "bosonic-test-tools": "*",
+    "grunt-bosonic": "*"
+  },
+  "dependencies": {
+    "bosonic": "*"
+  }
+}
